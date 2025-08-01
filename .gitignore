@@ -6,7 +6,7 @@ npm-debug.log
 yarn-error.log
 
 build/
-lib/*.js
+*.tgz
 
 api/
 coverage/
